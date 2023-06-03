@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maud2023
 - 👀 I’m interested in travel and dive
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on coding project, web or mobile.
 - 📫 How to reach me : send me an e-mail !
 
 <!---
